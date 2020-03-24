@@ -14,4 +14,5 @@ yarn start
 ------
 Access the application at http://localhost:3000
 
-![Add User][/img/crud1.png]
+![Add User](https://github.com/Cavein254/ReactTodoApp/blob/master/img/crud1.png)
+
