@@ -1,6 +1,6 @@
-## TODO APP https://nifty-hugle-8cce50.netlify.com/
+## Contacts App https://nifty-hugle-8cce50.netlify.com/
 
-A simple react Todo app that utilizes the use of react hooks. The application provides the user with ability to create new todos, edit existing one and delete
+A simple react contacts app that let's one save the name and username of friends. It provides CRUD functionality.
 
 ### Set up
 
